@@ -9,3 +9,4 @@ I wanted to to create a program that counts the number of times a button is clic
 A problem I faced is that the counter, when increased just after being decreased, decreased the value by 1 first, before then increasing it when the increase button is clicked again. This also happened vice-versa for the decrease button.
 
 ## Live Solution Page
+https://ioddgamers.github.io/click-counter/
