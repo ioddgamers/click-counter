@@ -5,7 +5,7 @@ const increaseValue = document.getElementById("increase");
 let counterValue = 0;
   
 function decreaseCounterValue () {
-  counter.textContent = counterValue--;
+  counter.textContent = --counterValue;
 }  
 
 function resetCounterValue () {
@@ -14,7 +14,7 @@ function resetCounterValue () {
 }
 
 function increaseCounterValue () {
-  counter.textContent = counterValue++;
+  counter.textContent = ++counterValue;
 }
 
 
